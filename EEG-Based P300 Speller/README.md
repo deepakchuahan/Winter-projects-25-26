@@ -1,7 +1,5 @@
 # EEG-Based P300 Speller
 
-**Author:** Deepak Kumar Chauhan
-
 ## Project Objective
 The objective of this project is to build a real-time Brain-Computer Interface (BCI) speller based on the P300 Event-Related Potential (ERP) using OpenViBE. This project extends beyond the default classical Machine Learning pipeline by integrating customizable ML and Deep Learning models. 
 
